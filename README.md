@@ -6,7 +6,6 @@ How to set up
 2.	Install Jest
 3.	Install Selenium Web driver
 4.	Clone the final repository
-a.	Link: https://github.com/Paris778/Lamda
 5.	Open repository in the text editor or IDE of your choice (project was developed on VS Code)
 6.	Navigate into the ‘’jest-selenium-webdriver-sample’’ directory
 7.	Fill in the .env file with:
