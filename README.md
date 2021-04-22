@@ -1,5 +1,7 @@
 # Lamda
 
+An automated functional software testing implementation in JavaScript aimed to be part of a CI:CD environment.
+
 How to set up
 
 1.	Install JavaScript (NodeJS) to your system
